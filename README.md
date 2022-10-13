@@ -1,12 +1,17 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)
 
-<h1 align="center">Hi there 👋 My name is Osilaja Hameed,</h1>
+<h1 align="center">Hi there 👋 My name is Hameed Osilaja,</h1>
 <h3 align="center">A full-stack developer in Lagos, Nigeria. I am open to collaborations on frontend, backend and full-stack jobs.</h3>
+<p>I build web apps that actually represents your brand, and provides tailored solutions to assist businesses achieve their goals.
+
+</p>
 
 
 <img align="right" width="600px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="banner" />
 
 - 🔭 I’m currently working on **E-Commerce website with Django**
+- 🌱 I’m currently learning  PostgreSQL, React.
+- 📫 How to reach me: Email address- osilajaabdulhameed@gmail.com
 
 <p align="left"> <a href="https://twitter.com/@AbdulOsilaja" target="blank"><img src="https://img.shields.io/twitter/follow/@AbdulOsilaja?logo=twitter&style=for-the-badge" alt="@AbdulOsilaja" /></a> </p>
 
