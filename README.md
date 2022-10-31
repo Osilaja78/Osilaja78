@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning  PostgreSQL, React.
 - 📫 How to reach me: Email address- osilajaabdulhameed@gmail.com
 
-<p> <a href="https://twitter.com/@AbdulOsilaja" target="blank"><img src="https://img.shields.io/twitter/follow/@AbdulOsilaja?logo=twitter&style=for-the-badge" alt="@AbdulOsilaja" /></a> </p>
+<p> <a href="https://twitter.com/AbdulOsilaja" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulOsilaja?logo=twitter&style=for-the-badge" alt="@AbdulOsilaja" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
