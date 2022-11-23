@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)
+<!-- ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg) -->
+[![@hameed78's Holopin board](https://holopin.me/hameed78)](https://holopin.io/@hameed78)
 
 <h1 align="center">Hi there 👋 My name is Hameed Osilaja,</h1>
 <h3 align="center">A full-stack developer in Lagos, Nigeria. I build web apps that actually represents your brand, and provides tailored solutions to assist businesses achieve their goals.
